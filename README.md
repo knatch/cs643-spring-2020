@@ -1,1 +1,1 @@
-# cs643-spring-2020
+# Assignments in CS643 Spring 2020
